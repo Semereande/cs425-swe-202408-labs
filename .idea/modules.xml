@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/labs/lab-7b/MortgageProject/MortgageProject.iml" filepath="$PROJECT_DIR$/labs/lab-7b/MortgageProject/MortgageProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab-7b/ShoppingCart/ShoppingCart.iml" filepath="$PROJECT_DIR$/labs/lab-7b/ShoppingCart/ShoppingCart.iml" />
       <module fileurl="file://$PROJECT_DIR$/cs425-swe-202408-labs.iml" filepath="$PROJECT_DIR$/cs425-swe-202408-labs.iml" />
     </modules>
   </component>

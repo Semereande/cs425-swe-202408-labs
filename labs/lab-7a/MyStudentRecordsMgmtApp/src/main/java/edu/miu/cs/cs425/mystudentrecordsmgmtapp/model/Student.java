@@ -7,18 +7,18 @@ public class Student {
     private String name;
     private LocalDate dateOfAdmission;
 
-    // Default constructor
+
     public Student() {
     }
 
-    // Constructor with all fields
+
     public Student(int studentId, String name, LocalDate dateOfAdmission) {
         this.studentId = studentId;
         this.name = name;
         this.dateOfAdmission = dateOfAdmission;
     }
 
-    // Constructor with studentId and name
+
     public Student(int studentId, String name) {
         this.studentId = studentId;
         this.name = name;
