@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MyStudentMgmtApp" />
+        <module name="lab13" />
         <module name="MyStudentRecordsMgmtApp" />
       </profile>
     </annotationProcessing>
