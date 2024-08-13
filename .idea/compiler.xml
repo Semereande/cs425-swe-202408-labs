@@ -7,9 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="MyStudentMgmtApp" />
         <module name="lab13" />
         <module name="MyStudentRecordsMgmtApp" />
+        <module name="MyStudentMgmtApp" />
+        <module name="MyStudentMgmtApp (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,8 +21,10 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="MyStudentMgmtApp" options="-parameters" />
+      <module name="MyStudentMgmtApp (1)" options="-parameters" />
       <module name="MyStudentRecordsMgmtApp" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="lab13" options="-parameters" />
     </option>
   </component>
 </project>
