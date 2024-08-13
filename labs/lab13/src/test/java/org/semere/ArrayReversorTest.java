@@ -1,10 +1,9 @@
-package org.micheal;
+package org.semere;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.semere.ArrayReversor;
 import org.semere.services.ArrayFlattenerService;
 import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;

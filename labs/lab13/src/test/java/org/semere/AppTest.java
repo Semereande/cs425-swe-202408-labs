@@ -1,4 +1,4 @@
-package org.micheal;
+package org.semere;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

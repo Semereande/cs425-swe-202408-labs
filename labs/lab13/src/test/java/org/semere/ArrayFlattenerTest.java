@@ -1,7 +1,6 @@
-package org.micheal;
+package org.semere;
 
 import org.junit.Test;
-import org.semere.ArrayFlattener;
 
 import static org.junit.Assert.*;
 

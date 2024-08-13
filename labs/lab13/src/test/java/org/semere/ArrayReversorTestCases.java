@@ -1,4 +1,4 @@
-package org.micheal;
+package org.semere;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
